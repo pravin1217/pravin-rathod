@@ -1,46 +1,28 @@
-# Hi, I'm Pravin Rathod
+# Pravin Rathod
 
-### Technical Lead | Distributed Systems | Cloud-Native Architect
+### Technical Lead | Distributed Systems | Cloud-Native Engineering
 
-I design and deliver scalable, high-performance systems powering enterprise and SaaS platforms. With 6+ years of experience, I focus on building reliable architectures, leading engineering teams, and solving complex production challenges.
-
----
-
-## What I Do
-
-* Architect microservices-based systems for scalability and resilience
-* Lead cross-functional engineering teams and drive technical decisions
-* Design high-performance APIs and distributed backend systems
-* Optimize systems for performance, observability, and reliability
+I am a Technical Lead with 6+ years of experience designing and delivering scalable SaaS and enterprise systems. I specialize in building distributed architectures, leading engineering teams, and delivering reliable, high-performance platforms aligned with business goals.
 
 ---
 
-## Core Expertise
+## Expertise
 
-**Architecture & Systems**
+* Distributed Systems & Microservices Architecture
+* Scalable Backend System Design
+* Cloud Infrastructure & Containerization
+* API Design & System Integration
+* Performance Optimization & Observability
 
-* Distributed Systems
-* Microservices Architecture
-* Scalable Backend Design
+---
 
-**Backend & Services**
+## Experience Highlights
 
-* REST APIs
-* Event-driven systems
-* Service-oriented architecture
-
-**Cloud & DevOps**
-
-* AWS (EC2, S3)
-* Docker & Containerization
-* CI/CD pipelines
-* Linux server management
-
-**Data & Observability**
-
-* SQL & NoSQL databases
-* Performance optimization
-* Logging & monitoring systems
+* Led a team of 15+ engineers across multiple enterprise platforms
+* Designed microservices-based architectures for scalability and maintainability
+* Improved system performance through optimization, caching, and indexing strategies
+* Built and delivered SaaS platforms across HRMS, healthcare, and logistics domains
+* Implemented monitoring and logging systems to enhance production visibility
 
 ---
 
@@ -48,35 +30,33 @@ I design and deliver scalable, high-performance systems powering enterprise and 
 
 ### Enterprise SaaS Platforms
 
-Designed and delivered multi-tenant platforms supporting HRMS, healthcare, and logistics systems with scalable architecture and high availability.
+Designed and delivered multi-tenant systems supporting large-scale business operations with secure and scalable architecture.
 
-### Real-Time Tracking Systems
+### Real-Time Systems
 
-Built distributed systems handling live GPS tracking, real-time updates, and device communication at scale.
+Developed distributed systems handling real-time tracking, communication, and high-frequency data processing.
 
 ### Document & Workflow Systems
 
-Engineered secure document management and digital workflow systems with audit tracking and access control.
+Engineered secure document lifecycle systems with access control, audit tracking, and automation workflows.
 
 ---
 
 ## Leadership
 
-* Led a team of 15+ engineers across multiple projects
-* Conducted code reviews and established engineering best practices
-* Mentored developers and improved team productivity
-* Collaborated with stakeholders on architecture and delivery
+* Team leadership and mentoring
+* Code quality and engineering standards
+* Architecture decision-making
+* Cross-functional collaboration
 
 ---
 
 ## Professional Focus
 
-I am particularly interested in:
-
-* Large-scale distributed systems
-* System design and architecture
-* Performance engineering
-* Building engineering teams and culture
+* System Design & Architecture
+* High-Scale Distributed Systems
+* Performance Engineering
+* Building strong engineering teams
 
 ---
 
@@ -84,8 +64,8 @@ I am particularly interested in:
 
 * Email: [pravin17.1997@gmail.com](mailto:pravin17.1997@gmail.com)
 * LinkedIn: [(Add your link)](https://www.linkedin.com/in/pravin-rathod-729911213/)
-* Location: India (Open to international opportunities)
+* Location: India | Open to Relocation
 
 ---
 
-> Building systems that scale, teams that deliver, and software that lasts.
+> Focused on building scalable systems, strong teams, and reliable software.
